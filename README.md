@@ -1,11 +1,10 @@
-
-<h2>Intro:</h2>
-- [x] https://tryhackme.com/room/hello
-<br/>https://tryhackme.com/room/howtousetryhackme
-<br/>https://tryhackme.com/room/gettingstarted
-<br/>https://tryhackme.com/room/welcome
-<br/>https://tryhackme.com/room/tutorial
-<br/>https://tryhackme.com/room/openvpn
+## Intro:
+- [X] https://tryhackme.com/room/hello
+- [X] https://tryhackme.com/room/howtousetryhackme
+- [X] https://tryhackme.com/room/gettingstarted
+- [X] https://tryhackme.com/room/welcome
+- [X] https://tryhackme.com/room/tutorial
+- [X] https://tryhackme.com/room/openvpn
 <br/>https://tryhackme.com/room/beginnerpathintro
 <br/>https://tryhackme.com/room/startingoutincybersec
 <br/>https://tryhackme.com/room/introtoresearch
@@ -51,7 +50,6 @@
 <br/>https://tryhackme.com/room/javascriptbasics
 <br/>https://tryhackme.com/room/bashscripting
 <br/>https://tryhackme.com/room/rust
-<br/>https://tryhackme.com/room/yara
 <br/>
 <br/>
 <h2>Networking:</h2>
