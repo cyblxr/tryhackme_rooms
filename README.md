@@ -1,6 +1,6 @@
 
 <h2>Intro:</h2>
-https://tryhackme.com/room/hello
+- [x] https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/howtousetryhackme
 <br/>https://tryhackme.com/room/gettingstarted
 <br/>https://tryhackme.com/room/welcome
