@@ -1,35 +1,34 @@
-## Intro:
+## Intro
 - [X] https://tryhackme.com/room/hello
 - [X] https://tryhackme.com/room/howtousetryhackme
 - [X] https://tryhackme.com/room/gettingstarted
 - [X] https://tryhackme.com/room/welcome
 - [X] https://tryhackme.com/room/tutorial
 - [X] https://tryhackme.com/room/openvpn
-<br/>https://tryhackme.com/room/beginnerpathintro
-<br/>https://tryhackme.com/room/startingoutincybersec
-<br/>https://tryhackme.com/room/introtoresearch
-<br/>
-<br/>
-<h2>Basics Rooms:</h2>
-<br/>https://tryhackme.com/room/linuxmodules
-<br/>https://tryhackme.com/room/linuxfundamentalspart1
-<br/>https://tryhackme.com/room/linuxfundamentalspart2
-<br/>https://tryhackme.com/room/linuxfundamentalspart3
-<br/>https://tryhackme.com/room/basicpentestingjt
-<br/>https://tryhackme.com/room/pentestingfundamentals
-<br/>https://tryhackme.com/room/principlesofsecurity
-<br/>https://tryhackme.com/room/ccpentesting
-<br/>https://tryhackme.com/room/hackermethodology
-<br/>https://tryhackme.com/room/physicalsecurityintro
-<br/>https://tryhackme.com/room/linuxstrengthtraining
-<br/>https://tryhackme.com/room/catregex
-<br/>https://tryhackme.com/room/openvas
-<br/>https://tryhackme.com/room/btmisp
-<br/>https://tryhackme.com/room/iso27001
-<br/>https://tryhackme.com/room/ultratech1
-<br/>
-<br/>
-<h2>Recon:</h2>
+- [X] https://tryhackme.com/room/beginnerpathintro
+- [X] https://tryhackme.com/room/startingoutincybersec
+- [X] https://tryhackme.com/room/introtoresearch
+
+
+## Basics Rooms
+- [X] https://tryhackme.com/room/linuxmodules
+- [X] https://tryhackme.com/room/linuxfundamentalspart1
+- [X] https://tryhackme.com/room/linuxfundamentalspart2
+- [X] https://tryhackme.com/room/linuxfundamentalspart3
+- [ ] https://tryhackme.com/room/basicpentestingjt (webapp hacking & privesc practice machine)
+- [ ] https://tryhackme.com/room/pentestingfundamentals
+- [ ] https://tryhackme.com/room/principlesofsecurity
+- [ ] https://tryhackme.com/room/ccpentesting (last task: ctf)
+- [X] https://tryhackme.com/room/hackermethodology
+- [ ] https://tryhackme.com/room/physicalsecurityintro
+- [ ] https://tryhackme.com/room/linuxstrengthtraining
+- [X] https://tryhackme.com/room/catregex
+- [ ] https://tryhackme.com/room/openvas
+- [ ] https://tryhackme.com/room/iso27001
+- [ ] https://tryhackme.com/room/ultratech1 (pentest, enum, privesc and webapp testing machine)
+
+
+## Recon
 <br/>https://tryhackme.com/room/passiverecon
 <br/>https://tryhackme.com/room/activerecon
 <br/>https://tryhackme.com/room/contentdiscovery
