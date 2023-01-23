@@ -18,7 +18,7 @@
 - [ ] https://tryhackme.com/room/basicpentestingjt (webapp hacking & privesc practice machine)
 - [ ] https://tryhackme.com/room/pentestingfundamentals
 - [ ] https://tryhackme.com/room/principlesofsecurity
-- [ ] https://tryhackme.com/room/ccpentesting (last task: ctf)
+- [X] https://tryhackme.com/room/ccpentesting
 - [X] https://tryhackme.com/room/hackermethodology
 - [ ] https://tryhackme.com/room/physicalsecurityintro
 - [ ] https://tryhackme.com/room/linuxstrengthtraining
