@@ -21,7 +21,7 @@
 - [X] https://tryhackme.com/room/ccpentesting
 - [X] https://tryhackme.com/room/hackermethodology
 - [ ] https://tryhackme.com/room/physicalsecurityintro
-- [ ] https://tryhackme.com/room/linuxstrengthtraining
+- [X] https://tryhackme.com/room/linuxstrengthtraining
 - [X] https://tryhackme.com/room/catregex
 - [ ] https://tryhackme.com/room/openvas
 - [ ] https://tryhackme.com/room/iso27001
