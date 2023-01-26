@@ -23,7 +23,7 @@
 - [ ] https://tryhackme.com/room/physicalsecurityintro
 - [X] https://tryhackme.com/room/linuxstrengthtraining
 - [X] https://tryhackme.com/room/catregex
-- [ ] https://tryhackme.com/room/openvas
+- [X] https://tryhackme.com/room/openvas
 - [ ] https://tryhackme.com/room/iso27001
 - [ ] https://tryhackme.com/room/ultratech1 (pentest, enum, privesc and webapp testing machine)
 
