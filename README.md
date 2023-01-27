@@ -29,7 +29,7 @@
 
 
 ## Recon
-<br/>https://tryhackme.com/room/passiverecon
+- [X] https://tryhackme.com/room/passiverecon
 <br/>https://tryhackme.com/room/activerecon
 <br/>https://tryhackme.com/room/contentdiscovery
 <br/>https://tryhackme.com/room/ohsint
