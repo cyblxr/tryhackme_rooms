@@ -15,8 +15,8 @@
 - [X] https://tryhackme.com/room/linuxfundamentalspart1
 - [X] https://tryhackme.com/room/linuxfundamentalspart2
 - [X] https://tryhackme.com/room/linuxfundamentalspart3
-- [ ] https://tryhackme.com/room/basicpentestingjt (webapp hacking & privesc practice machine)
-- [ ] https://tryhackme.com/room/pentestingfundamentals
+- [X] https://tryhackme.com/room/basicpentestingjt (webapp hacking & privesc practice machine)
+- [X] https://tryhackme.com/room/pentestingfundamentals
 - [ ] https://tryhackme.com/room/principlesofsecurity
 - [X] https://tryhackme.com/room/ccpentesting
 - [X] https://tryhackme.com/room/hackermethodology
